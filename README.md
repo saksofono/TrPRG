@@ -1,5 +1,6 @@
 # TrPRG
-program TrPRG 
+
+this program generates randomized password with a basic settings window
 
 YOU NEED PYTHON INSTALLED ON YOUR PC
 
